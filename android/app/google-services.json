@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "601205140586",
+    "project_id": "fusiondemo-c5de6",
+    "storage_bucket": "fusiondemo-c5de6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601205140586:android:fc574386185bdc9aa9ee13",
+        "android_client_info": {
+          "package_name": "bosch.fusion.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601205140586-j019l24fkfa3cjaip0qmnq3kqdqs8dqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXni1sFdZ3NraKo9HsK-6bpcCo64FqZHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601205140586-j019l24fkfa3cjaip0qmnq3kqdqs8dqg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "601205140586-1gk76fichml4iqh37cp5i4tri0b9e9ji.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hungtm.test"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601205140586:android:498dd60d78b210a6a9ee13",
+        "android_client_info": {
+          "package_name": "com.bosch.fusionboschapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601205140586-j019l24fkfa3cjaip0qmnq3kqdqs8dqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXni1sFdZ3NraKo9HsK-6bpcCo64FqZHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601205140586-j019l24fkfa3cjaip0qmnq3kqdqs8dqg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "601205140586-1gk76fichml4iqh37cp5i4tri0b9e9ji.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hungtm.test"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601205140586:android:5b3d5962d1bfcddaa9ee13",
+        "android_client_info": {
+          "package_name": "com.bosch.fusiondemo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601205140586-j019l24fkfa3cjaip0qmnq3kqdqs8dqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXni1sFdZ3NraKo9HsK-6bpcCo64FqZHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601205140586-j019l24fkfa3cjaip0qmnq3kqdqs8dqg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "601205140586-1gk76fichml4iqh37cp5i4tri0b9e9ji.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hungtm.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

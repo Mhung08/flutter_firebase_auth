@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>601205140586-5ogn9hkps1ubokjvdub538fkoaaqs0fd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.601205140586-5ogn9hkps1ubokjvdub538fkoaaqs0fd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBimwg9xxN0z7Owp1Tascq6WyKhbE_Q1rM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>601205140586</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>bosch.fusion.demoapp</string>
+	<key>PROJECT_ID</key>
+	<string>fusiondemo-c5de6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fusiondemo-c5de6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:601205140586:ios:12b2c69cd04b906da9ee13</string>
+</dict>
+</plist>
